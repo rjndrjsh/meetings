@@ -1,7 +1,7 @@
 # NWFPUG Meetings
 This repo contains meeting presentations, notes, python scripts, and Jupyter notebooks
 
-### Checkout our [Github page] (https://nwfpug.github.io/python-primer/)
+### Checkout our [Github page](https://nwfpug.github.io/meetings/)
 Find us also on: 
 - [Blogger](https://nwfpug.blogspot.com)
 - gmail: <nwfpug@gmail.com>
