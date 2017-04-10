@@ -1,0 +1,3 @@
+defaults: {adapter: mysql, host: localhost}
+development: {adapter: postgres, database: myapp_development, host: localhost}
+test: {adapter: postgres, database: myapp_test, host: localhost}
